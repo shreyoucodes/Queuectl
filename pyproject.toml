@@ -1,0 +1,12 @@
+[project]
+name = "queuectl"
+version = "0.1.0"
+description = "CLI-based background job queue with retries and DLQ"
+requires-python = ">=3.9"
+dependencies = [
+  "typer[all]",
+  "rich",
+]
+
+[project.scripts]
+queuectl = "queuectl.cli:app"
