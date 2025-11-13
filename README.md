@@ -35,6 +35,11 @@ You should see:
 ```
 DB initialized at: /home/<user>/.queuectl/queue.db
 ```
+If you are following up on a new terminal:
+
+```bash
+queuectl init
+```
 
 ---
 
@@ -287,9 +292,8 @@ queuectl/
 
 ## 🧾 Example Demo
 
-🎥 (Optional) Include a 1-minute demo link in your submission:
-
-[Watch CLI demo on Google Drive](#)
+🎥 Part 1: https://drive.google.com/file/d/1F8OiYFTTi3AOnVlWv8B8QFDW4w9OCN5d/view?usp=sharing
+🎥 Part 2: https://drive.google.com/file/d/1KhryZPjs-2S2jqIlErcisekPAkF9sYXb/view?usp=sharing
 
 ---
 
